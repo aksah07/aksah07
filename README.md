@@ -103,22 +103,11 @@ and continuously improving through hands-on building and collaboration.
 
 <div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=aksah07&theme=dark&hide_border=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=aksah07&bg_color=0d1117&text_color=c9d1d9&ring_color=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&theme=transparent)
+
 
 </div>
 
----
-
-
-## 🟩 GitHub Contributions
-
-<div align="center">
-
-<img
-  src="https://ghchart.rshah.org/aksah07"
-/>
-
-</div>
 
 ---
 
